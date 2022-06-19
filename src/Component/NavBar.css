@@ -1,0 +1,20 @@
+.navbar{
+    background-color: black;
+    color: white;
+    padding: 30px 30px 30px 30px;
+}
+.navbar ul li{
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+    background-color: white;
+    margin: 2px 2px 2px 2px;
+}
+
+.navbar ul li Link{
+    text-decoration: none;
+}
+
+/* .navbar ul .navbar-item{
+    color: white !important;
+   
+} */
